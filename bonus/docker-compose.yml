@@ -1,4 +1,4 @@
-services:
+services: 
   zookeeper:
     image: confluentinc/cp-zookeeper:latest
     volumes:
